@@ -1,0 +1,13206 @@
+[
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "اختلال",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "المزاج",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحزن",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهيجان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاهتمام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النشاطات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المفضلة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الابتعاد",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاصدقاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المواقف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "القدرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاستمتاع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الرفض",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "كونهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "محبوبين",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "عديمي",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيمة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "امتلاك",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "طاقة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جيد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعرض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكوابيس",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "لفترة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "طويلة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "القاء",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اللوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الذات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "نقص",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشهية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الوزن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التفكير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التركيز",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاختيارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "التفكير",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الموت",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانتحار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التخلي",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ممتلكات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قيمة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشكوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "بدنية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جديدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضعف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاداء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "مضادات",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "معظم",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصغر",
+    "Tag": "O"
+  },
+  {
+    "Token": "سنا",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يتبعه",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "مضادات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ارشادات",
+    "Tag": "O"
+  },
+  {
+    "Token": "لافراد",
+    "Tag": "O"
+  },
+  {
+    "Token": "العائلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "موظفي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "المعمم",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المستمر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شان",
+    "Tag": "O"
+  },
+  {
+    "Token": "العديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "النشاطات",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضبط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الهموم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تفاقم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فرط",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النشاط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تململ",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "تهيج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عصبية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "توتر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تعرق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مفرط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "شعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الارهاق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "جسدية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المعدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الام",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "العضلات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصداع",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التدريب",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الاسترخاء",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "ثنائي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "القطب",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحزن",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "قلة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاهتمام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التفكير",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "البطيء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المفرط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "روية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حقيقية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الهوس",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ثقة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مفرطة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "طاقة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عالية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تهيج",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "نوم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اقل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "زيادة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الكلام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المشاركة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "انشطة",
+    "Tag": "O"
+  },
+  {
+    "Token": "خطرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "وصف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الليثيوم",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "فالبروات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المشورة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الجماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفردية",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التخليج",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الكهربي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ايذاء",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "النفس",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الانتحاري",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "التسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الضرر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "للذات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "طرائق",
+    "Tag": "O"
+  },
+  {
+    "Token": "عديدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "للتسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الضرر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "للذات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضعف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الارتباط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "خصوصا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاباء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تفاهة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحياة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "ليس",
+    "Tag": "O"
+  },
+  {
+    "Token": "لها",
+    "Tag": "O"
+  },
+  {
+    "Token": "معني",
+    "Tag": "O"
+  },
+  {
+    "Token": "التماس",
+    "Tag": "O"
+  },
+  {
+    "Token": "رعاية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصحة",
+    "Tag": "O"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "وجود",
+    "Tag": "O"
+  },
+  {
+    "Token": "افكار",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انتحارية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الفردي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الجماعي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "تعليم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ادراك",
+    "Tag": "O"
+  },
+  {
+    "Token": "العواطف",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقبل",
+    "Tag": "O"
+  },
+  {
+    "Token": "العواطف",
+    "Tag": "O"
+  },
+  {
+    "Token": "السلبية",
+    "Tag": "O"
+  },
+  {
+    "Token": "كجزء",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحياة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تطوير",
+    "Tag": "O"
+  },
+  {
+    "Token": "استجابات",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "ملاءمة",
+    "Tag": "O"
+  },
+  {
+    "Token": "للشدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مقاومة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "سلوكيات",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ايذاء",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الذات",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "رهاب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الميادين",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "خوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "وسائل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النقل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التواجد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاماكن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المكشوفة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التواجد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اماكن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عامة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مغلقة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المتاجر",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "دور",
+    "Tag": "O"
+  },
+  {
+    "Token": "العرض",
+    "Tag": "O"
+  },
+  {
+    "Token": "خوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الوقوف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التواجد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضمن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حشد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التواجد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خارج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المنزل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انفراد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "كنهج",
+    "Tag": "O"
+  },
+  {
+    "Token": "فعال",
+    "Tag": "O"
+  },
+  {
+    "Token": "لتخفيف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "التدريب",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "مواجهة",
+    "Tag": "O"
+  },
+  {
+    "Token": "المواقف",
+    "Tag": "O"
+  },
+  {
+    "Token": "المخيفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تدريجيا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "التصرف",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "يتصرفون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انانية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يهتمون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشاعر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يكذبون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يغشون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسرقون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يتعاطون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عقاقير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشروعة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يتنمرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "يهددون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يدخلون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شجارات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يعاملون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الحيوانات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قسوة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يفترضون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يهددونهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يصبحون",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدوانيين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يهربون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المنزل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يتغيبون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يخربون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الممتلكات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خصوصا",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "طريق",
+    "Tag": "O"
+  },
+  {
+    "Token": "اشعال",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الحرائق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "احساس",
+    "Tag": "O"
+  },
+  {
+    "Token": "لائق",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذنب",
+    "Tag": "O"
+  },
+  {
+    "Token": "نقل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "بيئتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخطرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "محيط",
+    "Tag": "O"
+  },
+  {
+    "Token": "منظم",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "لتعزيز",
+    "Tag": "O"
+  },
+  {
+    "Token": "السلوكيات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الايجابية",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "المعارض",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "المتحدي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الجدال",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "البالغين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يستشيطون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "غضبا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "سهولة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لمرات",
+    "Tag": "O"
+  },
+  {
+    "Token": "عديدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتجاهلون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "القواعد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعليمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "يزعجون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قصد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يلقون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اللوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لاخطاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "هم",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ارتكبها",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدوون",
+    "Tag": "O"
+  },
+  {
+    "Token": "غاضبين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مستائين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يتضايق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "سهولة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ليس",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "مهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "اجتماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "جيدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "طرائق",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "تدبير",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السلوك",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ربما",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الجماعي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السلوك",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الانتحاري",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتخلون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المفضلة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقلبات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شديدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المزاج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يواجهون",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ينكفئون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العائلة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاصدقاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ينالون",
+    "Tag": "O"
+  },
+  {
+    "Token": "علامات",
+    "Tag": "O"
+  },
+  {
+    "Token": "متدنية",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقولون",
+    "Tag": "O"
+  },
+  {
+    "Token": "اشياء",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "اتمني",
+    "Tag": "O"
+  },
+  {
+    "Token": "لو",
+    "Tag": "O"
+  },
+  {
+    "Token": "لم",
+    "Tag": "O"
+  },
+  {
+    "Token": "اولد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادخال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المستشفي",
+    "Tag": "O"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اتخاذ",
+    "Tag": "O"
+  },
+  {
+    "Token": "احتياطات",
+    "Tag": "O"
+  },
+  {
+    "Token": "للوقاية",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحاولات",
+    "Tag": "O"
+  },
+  {
+    "Token": "المستقبلية",
+    "Tag": "O"
+  },
+  {
+    "Token": "معالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "اي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يسهم",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "خطر",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الانتحار",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الاحالة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "طبيب",
+    "Tag": "O"
+  },
+  {
+    "Token": "نفسي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "قلق",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الانفصال",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "كرب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شديد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الانفصال",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "المنزل",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "المتعلق",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "هم",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاهد",
+    "Tag": "O"
+  },
+  {
+    "Token": "درامية",
+    "Tag": "O"
+  },
+  {
+    "Token": "اثناء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوداع",
+    "Tag": "O"
+  },
+  {
+    "Token": "تترافق",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "نحيب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تضرع",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "قلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مستمر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شان",
+    "Tag": "O"
+  },
+  {
+    "Token": "لم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فقدان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الوالد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخطف",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "المرض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "السفر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "وحدهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "رفض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الذهاب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "زيارة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاصدقاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصرار",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "بقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "احد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوالدين",
+    "Tag": "O"
+  },
+  {
+    "Token": "حتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخلود",
+    "Tag": "O"
+  },
+  {
+    "Token": "للنوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "بدنية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصداع",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المعدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تعليم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاباء",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مقدمي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرعاية",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اختصار",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاهد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوداع",
+    "Tag": "O"
+  },
+  {
+    "Token": "قدر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامكان",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الفردي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "العائلي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الشكوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "معدية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "غثيان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "لتبرير",
+    "Tag": "O"
+  },
+  {
+    "Token": "البقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المنزل",
+    "Tag": "O"
+  },
+  {
+    "Token": "رفض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الذهاب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "صريح",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اثناء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التواجد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ظهور",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "جسدية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خلال",
+    "Tag": "O"
+  },
+  {
+    "Token": "اليوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدراسي",
+    "Tag": "O"
+  },
+  {
+    "Token": "التردد",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المتكرر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عيادة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الممرضة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التواصل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطاقم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاداري",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشجيع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحضور",
+    "Tag": "O"
+  },
+  {
+    "Token": "المنتظم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "نقص",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "فرط",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "النشاط",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "نشاط",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "بدني",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مفرط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اندفاع",
+    "Tag": "O"
+  },
+  {
+    "Token": "شديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "دون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تفكير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاصغاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عند",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحديث",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اتباع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التعليمات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكمال",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهام",
+    "Tag": "O"
+  },
+  {
+    "Token": "سهولة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشتت",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فقدان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "نسيان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تململ",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اليدين",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "القدمين",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحديث",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المعتاد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انتظار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الدور",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "لتحسين",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاداء",
+    "Tag": "O"
+  },
+  {
+    "Token": "اليومي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "دعم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعليمي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "متابعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مستمرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "طيف",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "التوحد",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التواصل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التفاعل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "تاخر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اكتساب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اللغة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدامها",
+    "Tag": "O"
+  },
+  {
+    "Token": "اهتمامات",
+    "Tag": "O"
+  },
+  {
+    "Token": "محدودة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "سلوكيات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "متكررة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التواصل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "البصري",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مقاومة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التغيير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التمسك",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الروتين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ردود",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "فعل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حسية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "معتادة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حساسية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مفرطة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "استجابة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "باهتة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "لتحسين",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "التدخل",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعليمي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدعم",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "اللغوي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحسين",
+    "Tag": "O"
+  },
+  {
+    "Token": "مهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "التواصل",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الدوائي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لزم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامر",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "للاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "عمر",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قبل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يواجهوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يلي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تاخرا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكلام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "نطق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ربط",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "تذكر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اسماء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحروف",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الارقام",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الالوان",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تدريبات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاملاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرغم",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "مهاراتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعتيادية",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحساب",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرياضيات",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثيرا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعاني",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مزج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاصوات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ترديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "مواضع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقسيم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "التاخر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التردد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اختيار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "انتقال",
+    "Tag": "O"
+  },
+  {
+    "Token": "كلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ديلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تسمية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحروف",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصور",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "جميعها",
+    "Tag": "O"
+  },
+  {
+    "Token": "موشرات",
+    "Tag": "O"
+  },
+  {
+    "Token": "مبكرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الذاكرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قصيرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للاصوات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "القدرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "وضع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاصوات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الترتيب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الصحيح",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "المشاكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشائعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثيرا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخلط",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحروف",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "احرف",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "مماثلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "عكس",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحرف",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "اثناء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكتابة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "درو",
+    "Tag": "O"
+  },
+  {
+    "Token": "بدلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "رد",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "بدلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخلط",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "بين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاحرف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "بدلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ت",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "بدلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "بدلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "هكذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "هناك",
+    "Tag": "O"
+  },
+  {
+    "Token": "العديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "عسر",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعكسون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاحرف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خلال",
+    "Tag": "O"
+  },
+  {
+    "Token": "السنوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الباكرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الابتدائية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "افضل",
+    "Tag": "O"
+  },
+  {
+    "Token": "طريقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لعلاج",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "تمييز",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكلمات",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "التدريب",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المباشر",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الذي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يتضمن",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "مقاربات",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "تعتمد",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "حاسة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يتضمن",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "النوع",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعليم",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الصوتيات",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "مجموعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "متنوعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "اما",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "منفصل",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "كجزء",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "برنامج",
+    "Tag": "O"
+  },
+  {
+    "Token": "القراءة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "كان",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "ممكنا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعاقة",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الذهنية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعاني",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعاقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذهنية",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطرابات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضحة",
+    "Tag": "O"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الولادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "وقت",
+    "Tag": "O"
+  },
+  {
+    "Token": "قصير",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطرابات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "جسدية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عصبية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ملامح",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "وجه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "طبيعية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "راس",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "كبير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صغير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشوهات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اليدين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "القدمين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "العديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشذوذات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "مظهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "O"
+  },
+  {
+    "Token": "طبيعيا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الناحية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الظاهرية",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديه",
+    "Tag": "O"
+  },
+  {
+    "Token": "علامات",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "لامراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "خطيرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاختلاجات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخمول",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التقيو",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "رائحة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "البول",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشاذة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "العجز",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التغذية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "النمو",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "طبيعي",
+    "Tag": "O"
+  },
+  {
+    "Token": "خلال",
+    "Tag": "O"
+  },
+  {
+    "Token": "سنتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاولي",
+    "Tag": "O"
+  },
+  {
+    "Token": "يواجه",
+    "Tag": "O"
+  },
+  {
+    "Token": "العديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "شديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعاقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذهنية",
+    "Tag": "O"
+  },
+  {
+    "Token": "تاخرا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تطور",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المهارات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحركية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكونون",
+    "Tag": "O"
+  },
+  {
+    "Token": "بطيئين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الزحف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجلوس",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الوقوف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يضم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفريق",
+    "Tag": "O"
+  },
+  {
+    "Token": "اختصاصيين",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "اذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لزم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامر",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعضاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفريق",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعاون",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "عائلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "تطوير",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "برنامج",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "فردي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "شامل",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للطفل",
+    "Tag": "O"
+  },
+  {
+    "Token": "فور",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشتباه",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشخيص",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعاقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذهنية",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديه",
+    "Tag": "O"
+  },
+  {
+    "Token": "ج",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذوو",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخوته",
+    "Tag": "O"
+  },
+  {
+    "Token": "ا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ادم",
+    "Tag": "O"
+  },
+  {
+    "Token": "اط",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "العائلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكملها",
+    "Tag": "O"
+  },
+  {
+    "Token": "جزءا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتجزا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "البرنامج",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبات",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الغضب",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "غضب",
+    "Tag": "O"
+  },
+  {
+    "Token": "فقد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصراخ",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "البكاء",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "التحرك",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عنف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدحرجة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الارض",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "القفز",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "رمي",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "لبعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "السلوكيات",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "خطيرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ضارة",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يحمر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "وجه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يضرب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يركل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "حوله",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "حبس",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انفاسهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لفترة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "جيزة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ثم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتابعون",
+    "Tag": "O"
+  },
+  {
+    "Token": "التنفس",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "صورة",
+    "Tag": "O"
+  },
+  {
+    "Token": "طبيعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ح",
+    "Tag": "O"
+  },
+  {
+    "Token": "الة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مختلفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ح",
+    "Tag": "O"
+  },
+  {
+    "Token": "الة",
+    "Tag": "O"
+  },
+  {
+    "Token": "حبس",
+    "Tag": "O"
+  },
+  {
+    "Token": "النفس",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطويل",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشتيت",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "انتباه",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ابعاد",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الطفل",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المكان",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "ما",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الصدمة",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الكرب",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاقتحامية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شيء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يذكرك",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحدث",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تاثيرات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "سلبية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التفكير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المزاج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تغيرات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اليقظة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التعرض",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يطلب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالج",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "تخيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "جوده",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "حالات",
+    "Tag": "O"
+  },
+  {
+    "Token": "تذكره",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "حدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "مزعج",
+    "Tag": "O"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "تذكر",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يطلب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "تخيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "جوده",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المتنزه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعرض",
+    "Tag": "O"
+  },
+  {
+    "Token": "فيه",
+    "Tag": "O"
+  },
+  {
+    "Token": "للهجوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتحدثون",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذي",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتخيله",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "حيث",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامان",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهدوء",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "مرور",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوقت",
+    "Tag": "O"
+  },
+  {
+    "Token": "يساعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التحسن",
+    "Tag": "O"
+  },
+  {
+    "Token": "دواء",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "مضاد",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثبطات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "استرداد",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السيروتونين",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الانتقائية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "دواء",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ان",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يساعدك",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الكوابيس",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "المحيط",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحيط",
+    "Tag": "O"
+  },
+  {
+    "Token": "تدريجيا",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "فجاة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تستمر",
+    "Tag": "O"
+  },
+  {
+    "Token": "العوارض",
+    "Tag": "O"
+  },
+  {
+    "Token": "لساعات",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ايام",
+    "Tag": "O"
+  },
+  {
+    "Token": "فقط",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "لاسابيع",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "شهور",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "سنوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "النوبات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحيط",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "كليهما",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تتناوب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "بين",
+    "Tag": "O"
+  },
+  {
+    "Token": "زيادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "نقصان",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شديدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "موجودة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبقي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "نفس",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لسنوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "حتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عقود",
+    "Tag": "O"
+  },
+  {
+    "Token": "تنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانفصال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جسد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الفرد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عقله",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشاعره",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "احاسيسه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقول",
+    "Tag": "O"
+  },
+  {
+    "Token": "المرضي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ايضا",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "واقعيين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشبه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الالة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "السيطرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ما",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يفعلون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يقولون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الخدر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجسدي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "هولاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يصفون",
+    "Tag": "O"
+  },
+  {
+    "Token": "انفسهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "صفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مراقب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخارجي",
+    "Tag": "O"
+  },
+  {
+    "Token": "لحياتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخاصة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الميت",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذي",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمشي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اما",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحيط",
+    "Tag": "O"
+  },
+  {
+    "Token": "فتنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانفصال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المحيطة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الناس",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "كل",
+    "Tag": "O"
+  },
+  {
+    "Token": "شيء",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدو",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اقعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المرضي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كانهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حلم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضباب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "لو",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "جدارا",
+    "Tag": "O"
+  },
+  {
+    "Token": "زجاجيا",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "حجابا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يفصل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "بين",
+    "Tag": "O"
+  },
+  {
+    "Token": "محيطهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدو",
+    "Tag": "O"
+  },
+  {
+    "Token": "العالم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "حياة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لون",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصطناعيا",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدو",
+    "Tag": "O"
+  },
+  {
+    "Token": "العالم",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشوها",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "فعلي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تظهر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ضبابية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "واضحة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "مالوف",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدو",
+    "Tag": "O"
+  },
+  {
+    "Token": "مسطحة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصغر",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكبر",
+    "Tag": "O"
+  },
+  {
+    "Token": "مما",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عليه",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدو",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاصوات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعلي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مما",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عليه",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدو",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوقت",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسير",
+    "Tag": "O"
+  },
+  {
+    "Token": "بطيئا",
+    "Tag": "O"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "سريعا",
+    "Tag": "O"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "انزعاجا",
+    "Tag": "O"
+  },
+  {
+    "Token": "كبيرا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "دائم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقريبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجد",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يطيقون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انفسهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شائعين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخاف",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "ناجمة",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ضرر",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدماغ",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "رجعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "فيه",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثيرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "منهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "حول",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ما",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اذا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كانوا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "موجودين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الفعل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتحققون",
+    "Tag": "O"
+  },
+  {
+    "Token": "مرارا",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكرارا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لتحديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "اذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "كانت",
+    "Tag": "O"
+  },
+  {
+    "Token": "تصوراتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "حقيقية",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تجعل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تفاقم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحيطات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الجديدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "مفرطة",
+    "Tag": "O"
+  },
+  {
+    "Token": "التنبيه",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قلة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "النوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "اسوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "مستمرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لدي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "طوال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوقت",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تاتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تختفي",
+    "Tag": "O"
+  },
+  {
+    "Token": "لفترات",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "تظهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "فيها",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "كبيرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "وصف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعراضهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ربما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخشون",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعتقدون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "طريقهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجنون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبقي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "دائما",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "علم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تجاربهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الانفصالية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ليست",
+    "Tag": "O"
+  },
+  {
+    "Token": "حقيقية",
+    "Tag": "O"
+  },
+  {
+    "Token": "بل",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "مجرد",
+    "Tag": "O"
+  },
+  {
+    "Token": "وسيلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "للتعبير",
+    "Tag": "O"
+  },
+  {
+    "Token": "عما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوعي",
+    "Tag": "O"
+  },
+  {
+    "Token": "هو",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يفصل",
+    "Tag": "O"
+  },
+  {
+    "Token": "بين",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدد",
+    "Tag": "O"
+  },
+  {
+    "Token": "المحيط",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذهاني",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذهاني",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفصام",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "افكار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تتفق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الواقع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكنهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يدركون",
+    "Tag": "O"
+  },
+  {
+    "Token": "انها",
+    "Tag": "O"
+  },
+  {
+    "Token": "مختلفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "الافكار",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعتادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المضادة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للقلق",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطرابات",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "التاقلم",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "تبدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التاقلم",
+    "Tag": "O"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "فترة",
+    "Tag": "O"
+  },
+  {
+    "Token": "قصيرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "المكرب",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "تستمر",
+    "Tag": "O"
+  },
+  {
+    "Token": "لاكثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اشهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "توقف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصدمة",
+    "Tag": "O"
+  },
+  {
+    "Token": "هناك",
+    "Tag": "O"
+  },
+  {
+    "Token": "العديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "مظاهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التاقلم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "المظاهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشائعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تشتمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المزاج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "سوء",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التصرف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يظهر",
+    "Tag": "O"
+  },
+  {
+    "Token": "لدي",
+    "Tag": "O"
+  },
+  {
+    "Token": "معظم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "مزيج",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعاني",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "عضهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "عرض",
+    "Tag": "O"
+  },
+  {
+    "Token": "واحد",
+    "Tag": "O"
+  },
+  {
+    "Token": "بارز",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "خاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "فقط",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التوتر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "عصبية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المزاج",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عقب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعتداء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الجسدي",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "هناك",
+    "Tag": "O"
+  },
+  {
+    "Token": "زيادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "خطر",
+    "Tag": "O"
+  },
+  {
+    "Token": "محاولات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الانتحار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "حالات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الانتحار",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكاملة",
+    "Tag": "O"
+  },
+  {
+    "Token": "العناية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الذاتية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "O"
+  },
+  {
+    "Token": "لمع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "معينة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "النرجسية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "النرجسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "هو",
+    "Tag": "O"
+  },
+  {
+    "Token": "نمط",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التفوق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "نيل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعجابهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "افتقار",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعاطف",
+    "Tag": "O"
+  },
+  {
+    "Token": "معهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتصف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "النرجسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يلي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعتقاد",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اهمية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تميزا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "المبالغة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تقدير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانجازات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التقليل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انجازات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحساسية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشديدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لاي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فشل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انتقاد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الغضب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "توهم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الذكاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحاد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجمال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الفائق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاهمية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكبيرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "استغلال",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الثناء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المستمر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "حسد",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثيرا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعتقدون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يحسدونهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "النرجسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكبر",
+    "Tag": "O"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرجال",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "فقدان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشهية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادمان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المخدرات",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكحول",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطرابات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شخصية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يفخر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الناس",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "انجازاتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يحب",
+    "Tag": "O"
+  },
+  {
+    "Token": "كل",
+    "Tag": "O"
+  },
+  {
+    "Token": "شخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقريبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمدح",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكره",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "توجه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اليه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانتقادات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الصفات",
+    "Tag": "O"
+  },
+  {
+    "Token": "تصبح",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطرابا",
+    "Tag": "O"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يغضب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينزعج",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "لعدم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تلقي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الثناء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المستمر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يفضي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحمله",
+    "Tag": "O"
+  },
+  {
+    "Token": "للانتقاد",
+    "Tag": "O"
+  },
+  {
+    "Token": "وحاجته",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحط",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "شان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "حدوث",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "العمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاقات",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الناس",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعالج",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطباء",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "النرجسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "المعادية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "للمجتمع",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "التحرش",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "تخريب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ممتلكاتهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "خرق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "القانون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الكذب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "استغلال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للحصول",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يريدون",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التعاطف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تجاهل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "حقوق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مشاعر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اختلاق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاعذار",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لتبرير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "سلوكياتهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "القاء",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اللوم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فيها",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التصرف",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدواني",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مسوول",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاستقالة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "العمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مفاجئ",
+    "Tag": "O"
+  },
+  {
+    "Token": "الامتناع",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "دفع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفواتير",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاسف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لما",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فعلوه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الادمان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المخدرات",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكحول",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعرفي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الهوية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "التفارقي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "ثغرات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الذاكرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للاحداث",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الماضية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يتذكر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فترات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "زمنية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "معينة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خلال",
+    "Tag": "O"
+  },
+  {
+    "Token": "مرحلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطفولة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "هفوات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الذاكرة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للاحداث",
+    "Tag": "O"
+  },
+  {
+    "Token": "اليومية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحالية",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "المكتسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "جيدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينسي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "موقتا",
+    "Tag": "O"
+  },
+  {
+    "Token": "كيفية",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكمبيوتر",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكتشاف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "قاموا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ها",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ليس",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذاكرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "حول",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ها",
+    "Tag": "O"
+  },
+  {
+    "Token": "فعلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرعاية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الداعمة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "حسب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "للاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "المرتبطة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ها",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التخيل",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الموجه",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التنويم",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "احيانا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الاجتراري",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "يستفرغ",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مرضي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الطعام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تناوله",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "متكرر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "كل",
+    "Tag": "O"
+  },
+  {
+    "Token": "يوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لديهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "غثيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتهوعون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لااراديا",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقومون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعادة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مضغ",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الطعام",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المستفرغ",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ثم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "بصقه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اعادة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "بلعه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مجددا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "طرائق",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "تعديل",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السلوك",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "تلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "معالجات",
+    "Tag": "O"
+  },
+  {
+    "Token": "تستخدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "استراتيجيات",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعرفي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "مفيدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "التجنبي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يرفضون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الدعاية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لانهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخشون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "زملاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "العمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "انتقادهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتجنبون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتجنبون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "تكوين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صداقات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جديدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "لم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكونوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "متاكدين",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "سيحبونها",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعرفية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تركز",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "انواع",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المضادة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للقلق",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الاتكالية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الخوف",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قدرتهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاعتناء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "انفسهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الخوف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يتعرضوا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للهجر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اظهار",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الخضوع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "يرغب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "تقديم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الرعاية",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الافتقار",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الثقة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الكثير",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الطمانة",
+    "Tag": "O"
+  },
+  {
+    "Token": "طلب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المشورة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "حتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "اتخاذ",
+    "Tag": "O"
+  },
+  {
+    "Token": "القرارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "البسيطة",
+    "Tag": "O"
+  },
+  {
+    "Token": "افساح",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المجال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لاتخاذ",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "القرارات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المتعلقة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "هم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "سوال",
+    "Tag": "O"
+  },
+  {
+    "Token": "ازواجهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "عما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ارتداوه",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوظيفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الافضل",
+    "Tag": "O"
+  },
+  {
+    "Token": "للاختيار",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصدقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينبغي",
+    "Tag": "O"
+  },
+  {
+    "Token": "مصاحبتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "افساح",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "المجال",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لاستغلالهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مثل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الموافقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "مهام",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "مريحة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحمل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاعتداء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجسدي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "العاطفي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجنسي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خوفا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فقدان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الدعم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المعتدي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ابداء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاختلاف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "حتي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الراي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سديدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "دء",
+    "Tag": "O"
+  },
+  {
+    "Token": "مشاريع",
+    "Tag": "O"
+  },
+  {
+    "Token": "شخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "العمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مستقل",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطمئنان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "وجود",
+    "Tag": "O"
+  },
+  {
+    "Token": "شخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدعم",
+    "Tag": "O"
+  },
+  {
+    "Token": "فغ",
+    "Tag": "O"
+  },
+  {
+    "Token": "البا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يودون",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ظائفهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "جيد",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الزوراني",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعتقد",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الزوراني",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تسببوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصابتهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "كبير",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "رجعة",
+    "Tag": "O"
+  },
+  {
+    "Token": "فيه",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "هم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتحرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشتائم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشوائب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التهديدات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الخيانة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المحتملة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبحثون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "معان",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "خفية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "الملاحظات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الافعال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقومون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التدقيق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثب",
+    "Tag": "O"
+  },
+  {
+    "Token": "بحثا",
+    "Tag": "O"
+  },
+  {
+    "Token": "عن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ادلة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تدعم",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكوكهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "فعلي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسيئون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "تفسير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عرض",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "للمساعدة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "انه",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعني",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "قادرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهمة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "تلقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "انفسهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعتقدوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعرضوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "للاهانة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصابة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اي",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشكال",
+    "Tag": "O"
+  },
+  {
+    "Token": "فانهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يسامحون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الشخص",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصابهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يميلون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهجوم",
+    "Tag": "O"
+  },
+  {
+    "Token": "المضاد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يصبحون",
+    "Tag": "O"
+  },
+  {
+    "Token": "غاضبين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "استجابة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهذه",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاصابات",
+    "Tag": "O"
+  },
+  {
+    "Token": "المتصورة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لانهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يثقون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الحاجة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاكتفاء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الذاتي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "السيطرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعرفي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "التمثيلي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "يتمتعون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحيوية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحماس",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الجاذبية",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعبير",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاعجاب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يبحثون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عن",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "جلب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحصول",
+    "Tag": "O"
+  },
+  {
+    "Token": "عليه",
+    "Tag": "O"
+  },
+  {
+    "Token": "ارتداء",
+    "Tag": "O"
+  },
+  {
+    "Token": "ملابس",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثيرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "مناسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "للعمل",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لجذب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الانتباه",
+    "Tag": "O"
+  },
+  {
+    "Token": "تتبدل",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انفعالاتهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "سريع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يعبرون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عنها",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "درامي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "يتاثرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "سهولة",
+    "Tag": "O"
+  },
+  {
+    "Token": "صعوبة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تكوين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "صداقات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مقربة",
+    "Tag": "O"
+  },
+  {
+    "Token": "حب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاثارة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "كل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ما",
+    "Tag": "O"
+  },
+  {
+    "Token": "هو",
+    "Tag": "O"
+  },
+  {
+    "Token": "جديد",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشعور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "السريع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الضجر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "فقد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يغيرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ظائفهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصدقاءهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "كثيرا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعالج",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطباء",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "التمثيلي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "استخدام",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "الفصامي",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "النمط",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "لدي",
+    "Tag": "O"
+  },
+  {
+    "Token": "مرضي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الشخصية",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفصامي",
+    "Tag": "O"
+  },
+  {
+    "Token": "النمط",
+    "Tag": "O"
+  },
+  {
+    "Token": "اصدقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "مقربون",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "موثوقون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "استثناء",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاقارب",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدرجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاولي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكونون",
+    "Tag": "O"
+  },
+  {
+    "Token": "منزعجين",
+    "Tag": "O"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يفضل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاشخاص",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "عدم",
+    "Tag": "O"
+  },
+  {
+    "Token": "التفاعل",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "الناس",
+    "Tag": "O"
+  },
+  {
+    "Token": "لانهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مختلفون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "عنهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينتمون",
+    "Tag": "O"
+  },
+  {
+    "Token": "اليهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكنهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقولون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "افتقارهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "للعلاقات",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجعلهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "سعيدين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكونون",
+    "Tag": "O"
+  },
+  {
+    "Token": "قلقين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "جدا",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المواقف",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لاسيما",
+    "Tag": "O"
+  },
+  {
+    "Token": "غير",
+    "Tag": "O"
+  },
+  {
+    "Token": "المالوفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "يودي",
+    "Tag": "O"
+  },
+  {
+    "Token": "قضاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "المزيد",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الوقت",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "المواقف",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تخفيف",
+    "Tag": "O"
+  },
+  {
+    "Token": "قلقهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتجاهل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "التقاليد",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "العادية",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المثال",
+    "Tag": "O"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "التواصل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "البصري",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لانهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "يفهمون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاشارات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المعتادة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "فقد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتفاعلون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "مع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "لائق",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "خشن",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المضادة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للذهان",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "مضادات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "المعرفي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الفصام",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحال",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "البالغين",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابين",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفصام",
+    "Tag": "O"
+  },
+  {
+    "Token": "يميل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقون",
+    "Tag": "O"
+  },
+  {
+    "Token": "المصابون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الفصام",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانوا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "هلاوس",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "توهمات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اعتقادات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "خاطئة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "تنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "سوء",
+    "Tag": "O"
+  },
+  {
+    "Token": "تفسير",
+    "Tag": "O"
+  },
+  {
+    "Token": "التصورات",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "التجارب",
+    "Tag": "O"
+  },
+  {
+    "Token": "زور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "جنون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الارتياب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حيث",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخشون",
+    "Tag": "O"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاخرين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يخططون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الحاق",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاذي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "هم",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسيطرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "افكارهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "تميل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "شكل",
+    "Tag": "O"
+  },
+  {
+    "Token": "تدريجي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "تصبح",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "شدة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المقارنة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "البالغين",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "التفكير",
+    "Tag": "O"
+  },
+  {
+    "Token": "اكثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "ميلا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يصبح",
+    "Tag": "O"
+  },
+  {
+    "Token": "ضعيفا",
+    "Tag": "O"
+  },
+  {
+    "Token": "ايضا",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينسحب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقون",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدوون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اظهار",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "انفعالات",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مالوفة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلاوس",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التوهمات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الزور",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "المضادة",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "للذهان",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التدريب",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهارات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاجتماعية",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "التاهيل",
+    "Tag": "O"
+  },
+  {
+    "Token": "المهني",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدعم",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "النفسي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "التعليمي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "B-DISORDER"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "I-DISORDER"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "اثناء",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "قلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شديد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "مما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "اعراضا",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "بدنية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حيث",
+    "Tag": "O"
+  },
+  {
+    "Token": "ينبض",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "القلب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "سرعة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعرق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "شديد",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "شعور",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "ضيق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "النفس",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعرون",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الم",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الصدر",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدوخة",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الغثيان",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "الخدر",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "كما",
+    "Tag": "O"
+  },
+  {
+    "Token": "لو",
+    "Tag": "O"
+  },
+  {
+    "Token": "انهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقضون",
+    "Tag": "O"
+  },
+  {
+    "Token": "نحبهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "يدخلون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "في",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حالة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "من",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الجنون",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تبدو",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الاشياء",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "غير",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "حقيقية",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "ب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "اليهم",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "هناك",
+    "Tag": "O"
+  },
+  {
+    "Token": "مب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الغة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "عند",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "تنطوي",
+    "Tag": "O"
+  },
+  {
+    "Token": "علي",
+    "Tag": "O"
+  },
+  {
+    "Token": "صراخ",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "نواح",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "لهاث",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المقارنة",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "البالغين",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "يشعر",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "القلق",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "حول",
+    "Tag": "O"
+  },
+  {
+    "Token": "تعرضهم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "توثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبات",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهموم",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "تترافق",
+    "Tag": "O"
+  },
+  {
+    "Token": "معها",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاقات",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الواجبات",
+    "Tag": "O"
+  },
+  {
+    "Token": "المدرسية",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطرابات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "تحدث",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "تلقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "نفسها",
+    "Tag": "O"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اي",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "دون",
+    "Tag": "O"
+  },
+  {
+    "Token": "محرض",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوعي",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "مرور",
+    "Tag": "O"
+  },
+  {
+    "Token": "الزمن",
+    "Tag": "O"
+  },
+  {
+    "Token": "يبدا",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "تجنب",
+    "Tag": "O"
+  },
+  {
+    "Token": "المواقف",
+    "Tag": "O"
+  },
+  {
+    "Token": "التي",
+    "Tag": "O"
+  },
+  {
+    "Token": "يربطونها",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النوبات",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يودي",
+    "Tag": "O"
+  },
+  {
+    "Token": "هذا",
+    "Tag": "O"
+  },
+  {
+    "Token": "التجنب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "رهاب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الميادين",
+    "Tag": "O"
+  },
+  {
+    "Token": "مما",
+    "Tag": "O"
+  },
+  {
+    "Token": "يجعل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "يرفضون",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الذهاب",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "الي",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المدرسة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "زيارة",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "المركز",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "التجاري",
+    "Tag": "I-SYMPTOM"
+  },
+  {
+    "Token": "او",
+    "Tag": "O"
+  },
+  {
+    "Token": "القيام",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "نشاطات",
+    "Tag": "O"
+  },
+  {
+    "Token": "نموذجية",
+    "Tag": "O"
+  },
+  {
+    "Token": "اخري",
+    "Tag": "O"
+  },
+  {
+    "Token": "يتفاقم",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "يقل",
+    "Tag": "O"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "دون",
+    "Tag": "O"
+  },
+  {
+    "Token": "سبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضح",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تختفي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعراض",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "تلقاء",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذاتها",
+    "Tag": "O"
+  },
+  {
+    "Token": "ثم",
+    "Tag": "O"
+  },
+  {
+    "Token": "تتكرر",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعد",
+    "Tag": "O"
+  },
+  {
+    "Token": "سنوات",
+    "Tag": "O"
+  },
+  {
+    "Token": "لاحقة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "مع",
+    "Tag": "O"
+  },
+  {
+    "Token": "المعالجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تتحسن",
+    "Tag": "O"
+  },
+  {
+    "Token": "حالات",
+    "Tag": "O"
+  },
+  {
+    "Token": "معظم",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذين",
+    "Tag": "O"
+  },
+  {
+    "Token": "يعانون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاحيان",
+    "Tag": "O"
+  },
+  {
+    "Token": "عندما",
+    "Tag": "O"
+  },
+  {
+    "Token": "لا",
+    "Tag": "O"
+  },
+  {
+    "Token": "تجري",
+    "Tag": "O"
+  },
+  {
+    "Token": "معالجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "يترك",
+    "Tag": "O"
+  },
+  {
+    "Token": "المراهقون",
+    "Tag": "O"
+  },
+  {
+    "Token": "الدراسة",
+    "Tag": "O"
+  },
+  {
+    "Token": "وينسحبون",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "المجتمع",
+    "Tag": "O"
+  },
+  {
+    "Token": "ويصبحون",
+    "Tag": "O"
+  },
+  {
+    "Token": "انطوائيين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "انتحاريين",
+    "Tag": "B-SYMPTOM"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "توليفة",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "فعالة",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "معالجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "اضطراب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "عادة",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النسبة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "بعض",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطفال",
+    "Tag": "O"
+  },
+  {
+    "Token": "تكون",
+    "Tag": "O"
+  },
+  {
+    "Token": "هناك",
+    "Tag": "O"
+  },
+  {
+    "Token": "حاجة",
+    "Tag": "O"
+  },
+  {
+    "Token": "متكررة",
+    "Tag": "O"
+  },
+  {
+    "Token": "الي",
+    "Tag": "O"
+  },
+  {
+    "Token": "ادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "لضبط",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوبات",
+    "Tag": "O"
+  },
+  {
+    "Token": "الهلع",
+    "Tag": "O"
+  },
+  {
+    "Token": "قبل",
+    "Tag": "O"
+  },
+  {
+    "Token": "ان",
+    "Tag": "O"
+  },
+  {
+    "Token": "يمكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "البدء",
+    "Tag": "O"
+  },
+  {
+    "Token": "ب",
+    "Tag": "O"
+  },
+  {
+    "Token": "العلاج",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "السلوكي",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "البنزوديازيبينات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "هي",
+    "Tag": "O"
+  },
+  {
+    "Token": "الادوية",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الاكثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "فعالية",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "لكن",
+    "Tag": "O"
+  },
+  {
+    "Token": "يفضل",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاطباء",
+    "Tag": "O"
+  },
+  {
+    "Token": "غالبا",
+    "Tag": "O"
+  },
+  {
+    "Token": "نوعا",
+    "Tag": "O"
+  },
+  {
+    "Token": "من",
+    "Tag": "O"
+  },
+  {
+    "Token": "مضادات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "الاكتئاب",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "يسمي",
+    "Tag": "O"
+  },
+  {
+    "Token": "مثبطات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "استرداد",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "السيروتونين",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "الانتقائية",
+    "Tag": "I-TREATMENT"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "ذلك",
+    "Tag": "O"
+  },
+  {
+    "Token": "لان",
+    "Tag": "O"
+  },
+  {
+    "Token": "البنزوديازيبينات",
+    "Tag": "B-TREATMENT"
+  },
+  {
+    "Token": "تسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "النعاس",
+    "Tag": "O"
+  },
+  {
+    "Token": "التهدئة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "توثر",
+    "Tag": "O"
+  },
+  {
+    "Token": "في",
+    "Tag": "O"
+  },
+  {
+    "Token": "التعلم",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "الذاكرة",
+    "Tag": "O"
+  },
+  {
+    "Token": "و",
+    "Tag": "O"
+  },
+  {
+    "Token": "قد",
+    "Tag": "O"
+  },
+  {
+    "Token": "تسبب",
+    "Tag": "O"
+  },
+  {
+    "Token": "الاعتماد",
+    "Tag": "O"
+  },
+  {
+    "Token": "عليها",
+    "Tag": "O"
+  }
+]
